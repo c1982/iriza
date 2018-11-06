@@ -28,6 +28,8 @@ func main() {
 		{[]string{"git", "github", "biraz"}, "Git biraz github oku!"},
 		{[]string{"eth"}, "Yeteryum oldu bu artık yaaaa!"},
 		{[]string{"toma"}, "Kanki diyetteyim artik!!"},
+		{[]string{"arda"}, "Arda abi bu gızı çaaaaal"},
+		{[]string{"scala"}, "Scala'yı koyuyosun otomatik scale oluyor"},
 	}
 
 	reader := bufio.NewReader(os.Stdin)
