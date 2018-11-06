@@ -27,6 +27,7 @@ func main() {
 		{[]string{"bitcoin", "coin"}, "Bit mi goin?"},
 		{[]string{"git", "github", "biraz"}, "Git biraz github oku!"},
 		{[]string{"eth"}, "Yeteryum oldu bu artık yaaaa!"},
+		{[]string{"toma"}, "Kanki diyetteyim artik!!"},
 	}
 
 	reader := bufio.NewReader(os.Stdin)
