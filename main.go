@@ -24,7 +24,7 @@ func main() {
 		{[]string{"man", "adam"}, "Adam adama dalmış!"},
 		{[]string{"kudret", "kudred"}, "Kudurmuş et."},
 		{[]string{"erikson", "erriccson"}, "Bu erricson. Başka erik yok."},
-		{[]string{"bitcoin", "erriccson"}, "Bit mi goin?"},
+		{[]string{"bitcoin", "coin"}, "Bit mi goin?"},
 		{[]string{"git", "github", "biraz"}, "Git biraz github oku!"},
 	}
 
